@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/">
+        <file>zdj22.jpg</file>
+        <file>zdj33.jpg</file>
+        <file>zdj11.jpg</file>
+        <file>zdj44.jpg</file>
+        <file>zdj55.jpg</file>
+    </qresource>
+</RCC>
